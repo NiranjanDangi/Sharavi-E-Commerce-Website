@@ -14,3 +14,10 @@ Sharavi is an e-commerce MERN stack web application that offers various function
 - **Frontend**: React.js, Bootstrap, Vite
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
+
+- Members
+This project is created in association with -->
+
+Neha Deshpande - Developer & Designer https://github.com/NehaManishDeshpande
+
+Niranjan Dangi - Developer & Designer https://github.com/NiranjanDangi
