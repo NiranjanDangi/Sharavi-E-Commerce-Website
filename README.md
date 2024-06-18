@@ -16,8 +16,8 @@ Sharavi is an e-commerce MERN stack web application that offers various function
 - **Database**: MongoDB
 
 - Members
-This project is created in association with -->
+  This project is created in association with -->
 
-Neha Deshpande - Developer & Designer https://github.com/NehaManishDeshpande
+  Neha Deshpande - Developer & Designer https://github.com/NehaManishDeshpande
 
-Niranjan Dangi - Developer & Designer https://github.com/NiranjanDangi
+  Niranjan Dangi - Developer & Designer https://github.com/NiranjanDangi
